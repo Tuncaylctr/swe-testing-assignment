@@ -1,4 +1,4 @@
-# Quick-Calc 🧮
+# Quick-Calc
 
 A simple, well-tested command-line calculator application built in Python. **Quick-Calc** supports the four fundamental arithmetic operations — addition, subtraction, multiplication, and division — with graceful error handling, all driven by clean and testable code.
 

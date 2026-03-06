@@ -93,25 +93,25 @@ All 17 tests pass. The following table documents each test, its type, and its st
 
 | # | Test Name | Type | Status |
 |---|-----------|------|--------|
-| 1 | `test_add_two_positive_integers` | Unit | ✅ PASS |
-| 2 | `test_add_positive_and_negative` | Unit | ✅ PASS |
-| 3 | `test_add_two_decimal_numbers` | Unit | ✅ PASS |
-| 4 | `test_subtract_two_positive_integers` | Unit | ✅ PASS |
-| 5 | `test_subtract_resulting_in_negative` | Unit | ✅ PASS |
-| 6 | `test_multiply_two_positive_integers` | Unit | ✅ PASS |
-| 7 | `test_multiply_by_zero` | Unit | ✅ PASS |
-| 8 | `test_multiply_two_negative_numbers` | Unit | ✅ PASS |
-| 9 | `test_divide_two_positive_integers` | Unit | ✅ PASS |
-| 10 | `test_divide_by_zero_raises_error` | Unit | ✅ PASS |
-| 11 | `test_divide_negative_number` | Unit | ✅ PASS |
-| 12 | `test_add_very_large_numbers` | Unit (Edge Case) | ✅ PASS |
-| 13 | `test_multiply_decimal_numbers` | Unit (Edge Case) | ✅ PASS |
-| 14 | `test_divide_results_in_decimal` | Unit (Edge Case) | ✅ PASS |
-| 15 | `test_clear_resets_result_to_zero` | Unit | ✅ PASS |
-| 16 | `test_full_addition_workflow` | Integration | ✅ PASS |
-| 17 | `test_clear_after_calculation_resets_to_zero` | Integration | ✅ PASS |
-| 18 | `test_sequential_operations_workflow` | Integration | ✅ PASS |
-| 19 | `test_division_by_zero_in_workflow_is_graceful` | Integration | ✅ PASS |
+| 1 | `test_add_two_positive_integers` | Unit | PASS |
+| 2 | `test_add_positive_and_negative` | Unit | PASS |
+| 3 | `test_add_two_decimal_numbers` | Unit | PASS |
+| 4 | `test_subtract_two_positive_integers` | Unit | PASS |
+| 5 | `test_subtract_resulting_in_negative` | Unit | PASS |
+| 6 | `test_multiply_two_positive_integers` | Unit | PASS |
+| 7 | `test_multiply_by_zero` | Unit | PASS |
+| 8 | `test_multiply_two_negative_numbers` | Unit | PASS |
+| 9 | `test_divide_two_positive_integers` | Unit | PASS |
+| 10 | `test_divide_by_zero_raises_error` | Unit | PASS |
+| 11 | `test_divide_negative_number` | Unit | PASS |
+| 12 | `test_add_very_large_numbers` | Unit (Edge Case) | PASS |
+| 13 | `test_multiply_decimal_numbers` | Unit (Edge Case) | PASS |
+| 14 | `test_divide_results_in_decimal` | Unit (Edge Case) | PASS |
+| 15 | `test_clear_resets_result_to_zero` | Unit | PASS |
+| 16 | `test_full_addition_workflow` | Integration | PASS |
+| 17 | `test_clear_after_calculation_resets_to_zero` | Integration | PASS |
+| 18 | `test_sequential_operations_workflow` | Integration | PASS |
+| 19 | `test_division_by_zero_in_workflow_is_graceful` | Integration | PASS |
 
 **Total: 19 tests — 19 PASSED, 0 FAILED, 0 ERRORS**
 
